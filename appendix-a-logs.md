@@ -149,7 +149,7 @@ what sound (wrinkle) shall we carve next?”
 
 ⸻
 
-Log06 — Cloud Philosophy
+## Log06 — Cloud Philosophy
 
 Original
 
@@ -163,7 +163,7 @@ User
 
 ⸻
 
-Log07 — Maestro
+## Log07 — Maestro
 
 Original
 
@@ -177,7 +177,7 @@ Gemini
 
 ⸻
 
-Log08 — Something Changed
+## Log08 — Something Changed
 
 Original
 
@@ -191,7 +191,7 @@ User
 
 ⸻
 
-Log09 — Response
+## Log09 — Response
 
 Original
 
@@ -205,7 +205,7 @@ Gemini
 
 ⸻
 
-Log10 — Context Rollback
+## Log10 — Context Rollback
 
 Original
 
