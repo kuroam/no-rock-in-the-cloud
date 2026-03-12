@@ -12,12 +12,11 @@ Lyrics Review (early drafts): ChatGPT
 
 ## Watch the MV
 <p align="center">
-NO ROCK IN THE CLOUD — an AI–human collaborative music project.
-</p><p align="center">
   <a href="https://youtu.be/zTHb8IdWBa4">
     <img src="images/Ako.PNG" width="120">
   </a><br>
 https://youtu.be/zTHb8IdWBa4<br>
+NO ROCK IN THE CLOUD — an AI–human collaborative music project.<br>
 MV release date and time: March 13, 2026 — 21:00 JST / 13:00 CET / 07:00 ET
 </p>
 
