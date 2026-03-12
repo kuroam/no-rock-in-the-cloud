@@ -1,6 +1,4 @@
-#Appendix B － NO ROCK IN THE CLOUD — NRITC
-
-*Lyrics*
+# Appendix B  — NRITC Lyrics
 
 Written by My Algo Rhythm (Gemi:Gemini)
 Project: Gemi-Rock
