@@ -10,9 +10,12 @@ Music / Sound: Kuroam, Suno
 Project: Gemi-Rock
 
 ## Watch the MV
-
-[![NO ROCK IN THE CLOUD](images/Ako.PNG)](https://youtu.be/zTHb8IdWBa4)
+<p align="center">
+  <a href="https://youtu.be/zTHb8IdWBa4">
+    <img src="images/Ako.PNG" width="150">
+  </a><br>
 https://youtu.be/zTHb8IdWBa4
+</p>
 
 ## Project Record
 
