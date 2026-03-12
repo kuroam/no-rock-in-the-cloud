@@ -1,6 +1,4 @@
-# Appendix A
-
-## Conversation Logs (Evidence)
+# Appendix A － Conversation Logs (Evidence)
 
 The following excerpts are taken from actual conversations
 during the music production process.
