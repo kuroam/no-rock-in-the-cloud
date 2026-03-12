@@ -8,7 +8,7 @@ This repository contains a record of the music project
 Lyrics: My Algo Rhythm (Gemi: Gemini)  
 Music / Sound: Kuroam, Suno  
 Project: Gemi-Rock  
-Lyrics Review(early drafts):ChatGPT
+Lyrics Review(early drafts): ChatGPT
 
 ## Watch the MV
 <p align="center">
