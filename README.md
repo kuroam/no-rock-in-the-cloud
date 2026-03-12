@@ -23,7 +23,7 @@ https://youtu.be/zTHb8IdWBa4
 The full record of the project is available here:
 
 [Project Record](record.md)  
-[Project Record(JP)](jp_record.md)  
+[Project Record(JP)](jp_record.md): 日本語  
 
 Supporting materials and conversation excerpts are available in the appendix files:
 - [Appendix A － Conversation Logs](appendix-a-logs.md)
