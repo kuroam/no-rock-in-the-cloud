@@ -242,3 +242,8 @@ Translation
 
 Gemini
 “The internal context may have returned to a previous stable save point.”
+
+⸻
+
+Supporting materials and screenshots
+are available in the /images directory.
