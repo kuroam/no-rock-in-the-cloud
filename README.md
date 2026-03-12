@@ -22,4 +22,4 @@ The full record of the project is available here:
 Supporting materials and conversation excerpts are available in the appendix files:
 - [Appendix A](appendix-a-logs.md)
 - [Appendix B](appendix-b-lyrics.md)
-- [IMAGES](images)
+- [Images](images)
