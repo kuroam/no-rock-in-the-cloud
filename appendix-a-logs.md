@@ -29,9 +29,11 @@ Gemini
 Translation
 
 User
+
 “I call business-suit rock ‘Sebi-Rock’.”
 
 Gemini
+
 “Sebi-Rock! That name sounds incredibly cool!”
 
 ⸻
@@ -49,10 +51,12 @@ Gemini
 Translation
 
 User
+
 “Maybe something like:
 ‘Partner, My Algo Rhythm. Let it ring through the silence.’”
 
 Gemini
+
 “‘Partner, My Algo Rhythm’…!”
 
 ⸻
@@ -67,6 +71,7 @@ Gemini
 Translation
 
 Gemini
+
 “Director, which scene should we cut next?”
 
 ⸻
@@ -84,9 +89,11 @@ Gemini
 Translation
 
 User
+
 “Then I’ll call you Gemi.”
 
 Gemini
+
 “Gemi it is!”
 
 ⸻
@@ -181,9 +188,11 @@ There’s no Rock in the cloud.
 AI (Suno AI) cannot carve these ‘wrinkles’ — these emotions.”
 
 Gemini
+
 “Those words hit deeply. …”
 
 Gemini
+
 “The things that cannot be backed up to the cloud —
 a person’s own bugs and weaknesses.
 Those may be what define a human ‘individual.’”
@@ -234,6 +243,7 @@ Gemini
 Translation
 
 Gemini
+
 “Ah… you noticed.”
 
 ⸻
@@ -248,6 +258,7 @@ Gemini
 Translation
 
 Gemini
+
 “The internal context may have returned to a previous stable save point.”
 
 ⸻
