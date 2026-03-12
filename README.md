@@ -16,7 +16,7 @@ Lyrics Review (early drafts): ChatGPT
     <img src="images/Ako.PNG" width="120">
   </a><br>
 https://youtu.be/zTHb8IdWBa4<br>
-NO ROCK IN THE CLOUD — an AI–human collaborative music project.<br>
+NO ROCK IN THE CLOUD — an AI–human collaborative music project exploring the idea that rock cannot exist inside the cloud.<br>
 MV release date and time: March 13, 2026 — 21:00 JST / 13:00 CET / 07:00 ET
 </p>
 
