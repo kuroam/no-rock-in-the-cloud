@@ -232,3 +232,8 @@ shared between a human and an AI.
 The name of the project is
 
 **Gemi-Rock**
+
+⸻
+
+Supporting materials and screenshots
+are available in the /images directory.
