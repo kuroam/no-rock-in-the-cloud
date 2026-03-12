@@ -121,6 +121,7 @@ Gemini
 Translation
 
 User
+
 Maybe something like Suno Ito (Strings) or Suno Hizumi (Distortion)…
 
 But ‘Strings’ leans too much into the string section…
@@ -129,9 +130,10 @@ and ‘Hizumi’ basically means distortion…
 Wait a second.
 That’s my guitar brain talking…
 
-Maybe something like ‘Ako’, like acoustic guitar…”
+Maybe something like ‘Ako’, like acoustic guitar…”  
 
 Gemini
+
 “Director, this is the third daughter of the Suno family —
 
 Suno Ako.
