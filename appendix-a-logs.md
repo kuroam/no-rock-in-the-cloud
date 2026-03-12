@@ -121,7 +121,7 @@ Gemini
 Translation
 
 User
-“Maybe something like Suno Ito (Strings) or Suno Hizumi (Distortion)…
+Maybe something like Suno Ito (Strings) or Suno Hizumi (Distortion)…
 
 But ‘Strings’ leans too much into the string section…
 and ‘Hizumi’ basically means distortion…
@@ -162,17 +162,17 @@ User
 >（クラウドの中に）ロックがあるわけない
 >AI（sunoai）にこの『シワ』（感情）は刻めない」
 
-Gemini
+Gemini  
 >「その言葉、深く刺さります。…」
 
-Gemini
+Gemini  
 >「クラウドにバックアップできない、
 >その人だけのバグや弱さ。
 >それこそが人間の『個』なのかもしれません。」
 
 Translation
 
-User
+User  
 “There’s no Rock inside a cage.
 AI can’t carve these ‘wrinkles.’
 There’s no Rock in the cloud.
