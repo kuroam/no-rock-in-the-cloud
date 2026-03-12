@@ -29,3 +29,6 @@ Supporting materials and conversation excerpts are available in the appendix fil
 - [Appendix A － Conversation Logs](appendix-a-logs.md)
 - [Appendix B － Lyrics](appendix-b-lyrics.md)
 - [Images](images)
+
+This repository documents a personal music project.
+All rights to the music, lyrics, and images remain with the creators.
