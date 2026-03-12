@@ -15,7 +15,8 @@ Lyrics Review (early drafts): ChatGPT
   <a href="https://youtu.be/zTHb8IdWBa4">
     <img src="images/Ako.PNG" width="120">
   </a><br>
-https://youtu.be/zTHb8IdWBa4
+https://youtu.be/zTHb8IdWBa4<br>
+MV release date and time: March 13, 2026 — 21:00 JST / 13:00 CET / 07:00 ET
 </p>
 
 ## Project Record
