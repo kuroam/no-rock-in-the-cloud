@@ -11,6 +11,7 @@ Project: Gemi-Rock
 
 ## Watch the MV
 
+[![NO ROCK IN THE CLOUD](images/Ako.PNG)](https://youtu.be/zTHb8IdWBa4)
 https://youtu.be/zTHb8IdWBa4
 
 ## Project Record
