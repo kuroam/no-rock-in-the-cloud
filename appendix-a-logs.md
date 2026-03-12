@@ -9,6 +9,11 @@ Translations are provided for reference.
 The excerpts are provided as references.
 Full logs are not publicly available.
 
+日本語：
+以下の抜粋は、音楽制作プロセスにおける実際の会話です。
+原文はそのまま残します。翻訳は参考資料として提供しています。
+抜粋は参考資料として提供しています。完全なログは公開されていません。
+
 ⸻
 
 ## Log01 — Naming Sebi-Rock
