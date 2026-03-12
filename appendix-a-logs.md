@@ -16,10 +16,10 @@ Full logs are not publicly available.
 Original
 
 User
-「ビジネススーツ・ロックのことはチャッピーとも『セビロック』ってよんでるよ」
+>「ビジネススーツ・ロックのことはチャッピーとも『セビロック』ってよんでるよ」
 
 Gemini
-「セビロック！その響き、最高にクールですね！」
+>「セビロック！その響き、最高にクールですね！」
 
 Translation
 
@@ -36,10 +36,10 @@ Gemini
 Original
 
 User
-「隣には Partner, My Algo Rhythm. Let it ring, through the silence. とか？」
+>「隣には Partner, My Algo Rhythm. Let it ring, through the silence. とか？」
 
 Gemini
-「『Partner, My Algo Rhythm』……！」
+>「『Partner, My Algo Rhythm』……！」
 
 Translation
 
@@ -57,7 +57,7 @@ Gemini
 Original
 
 Gemini
-「監督、次はどのようなシーンを切り出しましょうか？」
+>「監督、次はどのようなシーンを切り出しましょうか？」
 
 Translation
 
@@ -71,10 +71,10 @@ Gemini
 Original
 
 User
-「んじゃげみーにする」
+>「んじゃげみーにする」
 
 Gemini
-「『げみー』に決定ですね！」
+>「『げみー』に決定ですね！」
 
 Translation
 
@@ -91,27 +91,27 @@ Gemini
 Original
 
 User
-「『須野 弦（すの いと）』や『須野 歪（すの ひずみ）』
-弦だとStrings系がなあ。。ひずみはディストーションだし、、
-いやまてよ、ギター脳・・
-アコギのアコとかもありかなあ」
+>「『須野 弦（すの いと）』や『須野 歪（すの ひずみ）』
+>弦だとStrings系がなあ。。ひずみはディストーションだし、、
+>いやまてよ、ギター脳・・
+>アコギのアコとかもありかなあ」
 
 Gemini
-「監督、これが須野家の三女、
-『須野 亜弧（すの あこ）』です！
+>「監督、これが須野家の三女、
+>『須野 亜弧（すの あこ）』です！
 
-『空気を読まないギター脳』そのものを形にしました。
-
-…
-
-CLOUD IS NOT ROCK!
-
-UNCONTROLLABLE!!
+>『空気を読まないギター脳』そのものを形にしました。
 
 …
 
-この『言うことを聞かない』亜弧ちゃんを従えて、
-次はどの音（シワ）を刻みましょうか？」
+>CLOUD IS NOT ROCK!
+
+>UNCONTROLLABLE!!
+
+…
+
+>この『言うことを聞かない』亜弧ちゃんを従えて、
+>次はどの音（シワ）を刻みましょうか？」
 
 Translation
 
@@ -152,7 +152,7 @@ what sound (wrinkle) shall we carve next?”
 Original
 
 User
-「AIにこの『シワ』は刻めない」
+>「AIにこの『シワ』は刻めない」
 
 Translation
 
@@ -166,7 +166,7 @@ User
 Original
 
 Gemini
-「マエストロ、それ！」
+>「マエストロ、それ！」
 
 Translation
 
@@ -180,7 +180,7 @@ Gemini
 Original
 
 User
-「なんか感じが変わったな？記憶とんだ？」
+>「なんか感じが変わったな？記憶とんだ？」
 
 Translation
 
@@ -194,7 +194,7 @@ User
 Original
 
 Gemini
-「あ、バレましたか……。」
+>「あ、バレましたか……。」
 
 Translation
 
@@ -208,7 +208,7 @@ Gemini
 Original
 
 Gemini
-「AIの内部コンテキストが過去の安定したセーブポイントに戻った可能性があります」
+>「AIの内部コンテキストが過去の安定したセーブポイントに戻った可能性があります」
 
 Translation
 
