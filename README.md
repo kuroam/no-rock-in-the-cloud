@@ -20,6 +20,6 @@ The full record of the project is available here:
 [Project Record](record.md)
 
 Supporting materials and conversation excerpts are available in the appendix files:
-- [Appendix A](appendix-a-logs.md)
-- [Appendix B](appendix-b-lyrics.md)
+- [Appendix A － Conversation Logs](appendix-a-logs.md)
+- [Appendix B － Lyrics](appendix-b-lyrics.md)
 - [Images](images)
