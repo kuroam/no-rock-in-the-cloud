@@ -12,7 +12,7 @@ Project: Gemi-Rock
 ## Watch the MV
 <p align="center">
   <a href="https://youtu.be/zTHb8IdWBa4">
-    <img src="images/Ako.PNG" width="150">
+    <img src="images/Ako.PNG" width="120">
   </a><br>
 https://youtu.be/zTHb8IdWBa4
 </p>
