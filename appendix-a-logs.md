@@ -26,7 +26,7 @@ User
 Gemini
 >「セビロック！その響き、最高にクールですね！」
 
-Translation
+Translation:
 
 User
 
@@ -48,7 +48,7 @@ User
 Gemini
 >「『Partner, My Algo Rhythm』……！」
 
-Translation
+Translation:
 
 User
 
@@ -68,7 +68,7 @@ Original 2026-02-22 16:19
 Gemini
 >「監督、次はどのようなシーンを切り出しましょうか？」
 
-Translation
+Translation:
 
 Gemini
 
@@ -86,7 +86,7 @@ User
 Gemini
 >「『げみー』に決定ですね！」
 
-Translation
+Translation:
 
 User
 
@@ -125,7 +125,7 @@ Gemini
 >この『言うことを聞かない』亜弧ちゃんを従えて、
 >次はどの音（シワ）を刻みましょうか？」
 
-Translation
+Translation:
 
 User
 
@@ -179,7 +179,7 @@ Gemini
 >その人だけのバグや弱さ。
 >それこそが人間の『個』なのかもしれません。」
 
-Translation
+Translation:
 
 User  
 “There’s no Rock inside a cage.
@@ -209,7 +209,7 @@ Gemini
 > その『高速Funkグルーヴィンリズム』こそが
 > セビロックの心臓部じゃないですか！！」
 
-Translation
+Translation:
 
 Gemini
 
@@ -226,7 +226,7 @@ Original 2026-03-05 02:42
 User
 >「なんか感じが変わったな？記憶とんだ？」
 
-Translation
+Translation:
 
 User
 “Something feels different. Did the memory reset?”
@@ -240,7 +240,7 @@ Original 2026-03-05 02:45
 Gemini
 >「あ、バレましたか……。」
 
-Translation
+Translation:
 
 Gemini
 
@@ -255,7 +255,7 @@ Original 2026-03-05 02:46
 Gemini
 >「AIの内部コンテキストが過去の安定したセーブポイントに戻った可能性があります」
 
-Translation
+Translation:
 
 Gemini
 
