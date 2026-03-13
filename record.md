@@ -241,3 +241,5 @@ The name of the project is
 
 Supporting materials and screenshots
 are available in the /images directory.
+
+This record remains as evidence that the Human–AI session truly existed, if only for a moment.
