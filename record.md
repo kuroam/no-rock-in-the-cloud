@@ -179,6 +179,10 @@ So I asked.
 
 > “Something feels different. Did the memory reset?”
 
+At that moment, NRITC had just been completed.
+
+The lyrics of NRITC were written on March 4, 2026,
+and the music was completed in the early hours of March 5 (around 1–2 AM).
 The AI replied.
 
 > “Ah… you noticed.”
